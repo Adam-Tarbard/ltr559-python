@@ -1,5 +1,8 @@
 # LTR559 Proximity/Presence/Light Sensor
 
+# modification from Adam
+
+
 [![Build Status](https://travis-ci.com/pimoroni/ltr559-python.svg?branch=master)](https://travis-ci.com/pimoroni/ltr559-python)
 [![Coverage Status](https://coveralls.io/repos/github/pimoroni/ltr559-python/badge.svg?branch=master)](https://coveralls.io/github/pimoroni/ltr559-python?branch=master)
 [![PyPi Package](https://img.shields.io/pypi/v/ltr559.svg)](https://pypi.python.org/pypi/ltr559-python)
